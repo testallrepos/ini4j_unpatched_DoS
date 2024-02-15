@@ -1,4 +1,4 @@
-# Unpatched ini4j DoS vulnerability [CVE-2022-41404](https://nvd.nist.gov/vuln/detail/CVE-2022-41404)
+# Unpatched ini4j DoS vulnerability [CVE-2022-41404](https://nvd.nist.gov/vuln/detail/CVE-2022-41404)678
 
 A CVE was submitted to NVD on 10/11/2022, claiming that [ini4j](https://mvnrepository.com/artifact/org.ini4j/ini4j) 
 *prior* to [0.5.4](https://mvnrepository.com/artifact/org.ini4j/ini4j/0.5.4) is vulnerable to a DoS attack. The ini file 
